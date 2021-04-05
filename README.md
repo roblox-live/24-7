@@ -11,4 +11,6 @@ Then run this in the shell
 ` npm start `
  More will be in my discord server linked below.
  
-  [Server](https://discord.gg/3UqHNaEQa7)
+Server -  [Server](https://discord.gg/3UqHNaEQa7)
+
+Last updated -> 5/4/2021
